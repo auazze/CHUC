@@ -1,0 +1,14 @@
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\bin\Debug\net7.0\TimeofDayProgram.exe
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\bin\Debug\net7.0\TimeofDayProgram.deps.json
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\bin\Debug\net7.0\TimeofDayProgram.runtimeconfig.json
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\bin\Debug\net7.0\TimeofDayProgram.dll
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\bin\Debug\net7.0\TimeofDayProgram.pdb
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.AssemblyInfoInputs.cache
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.AssemblyInfo.cs
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.dll
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\refint\TimeofDayProgram.dll
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.pdb
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\TimeofDayProgram.genruntimeconfig.cache
+C:\Users\nvusxv\source\repos\TimeofDayProgram\TimeofDayProgram\obj\Debug\net7.0\ref\TimeofDayProgram.dll
