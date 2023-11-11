@@ -1,0 +1,16 @@
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\bin\Debug\net7.0-windows\SolveAge.exe
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\bin\Debug\net7.0-windows\SolveAge.deps.json
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\bin\Debug\net7.0-windows\SolveAge.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\bin\Debug\net7.0-windows\SolveAge.dll
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\bin\Debug\net7.0-windows\SolveAge.pdb
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.Form1.resources
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.csproj.GenerateResource.cache
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.dll
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\refint\SolveAge.dll
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.pdb
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\SolveAge.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\VS\SolveAge\obj\Debug\net7.0-windows\ref\SolveAge.dll
