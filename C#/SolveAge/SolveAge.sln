@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveAge", "SolveAge.csproj", "{BFEB902D-BD3A-4788-9D79-E6FD5C620B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEB902D-BD3A-4788-9D79-E6FD5C620B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEB902D-BD3A-4788-9D79-E6FD5C620B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEB902D-BD3A-4788-9D79-E6FD5C620B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEB902D-BD3A-4788-9D79-E6FD5C620B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65AFF65D-F884-4F62-A991-3119863674F9}
+	EndGlobalSection
+EndGlobal
