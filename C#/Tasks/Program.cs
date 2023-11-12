@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Tasks
 {
@@ -30,7 +30,7 @@ class Tasks
         }
         while (!int.TryParse(Console.ReadLine(), out DayIndex) || DayIndex < 1 || DayIndex >= 7);
         string Day = DayName[DayIndex - 1];
-        Console.WriteLine($"\nWe did {tasks[DayIndex]} in {hours[DayIndex]} in the {DayName[DayIndex - 1]} day of the week");
+        Console.WriteLine($"\nWe did {tasks[DayIndex]} in {hours[DayIndex]} hours in the {Day}");
     }
 
 
