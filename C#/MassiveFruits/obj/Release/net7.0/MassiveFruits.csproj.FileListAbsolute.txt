@@ -1,0 +1,14 @@
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\bin\Release\net7.0\MassiveFruits.exe
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\bin\Release\net7.0\MassiveFruits.deps.json
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\bin\Release\net7.0\MassiveFruits.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\bin\Release\net7.0\MassiveFruits.dll
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\bin\Release\net7.0\MassiveFruits.pdb
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.dll
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\refint\MassiveFruits.dll
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.pdb
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\MassiveFruits.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\VS\C#\MassiveFruits\obj\Release\net7.0\ref\MassiveFruits.dll
