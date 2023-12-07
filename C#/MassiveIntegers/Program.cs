@@ -2,7 +2,7 @@
 Random random = new Random();
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = random.Next(0, 15000);
+    array[i] = random.Next(0, 5);
         Console.WriteLine($"{i + 1}th element: {array[i]}");
 }
 
@@ -21,6 +21,14 @@ for (int j = 0; j < array.Length; j++)
 {
     array[j] *= up;
     Console.WriteLine($"Elevated: {array[j]}");
+}
+
+Console.WriteLine("__________________________________________________");
+
+int power = 2;
+for (int j = 0; j < array.Length; j++)
+{
+    Console.WriteLine($"Powered: {Math.Pow(array[j], power) + ""}");
 }
 
 Console.WriteLine("__________________________________________________");
