@@ -1,0 +1,15 @@
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.exe
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.deps.json
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.runtimeconfig.json
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.runtimeconfig.dev.json
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.dll
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\bin\Release\net5.0\TimeOfDayProgram1.pdb
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.AssemblyInfoInputs.cache
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.AssemblyInfo.cs
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.csproj.CoreCompileInputs.cache
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.dll
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\refint\TimeOfDayProgram1.dll
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.pdb
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\TimeOfDayProgram1.genruntimeconfig.cache
+E:\ЧЮК\ИСРПО\C# CHUC\TimeOfDayProgram1\obj\Release\net5.0\ref\TimeOfDayProgram1.dll

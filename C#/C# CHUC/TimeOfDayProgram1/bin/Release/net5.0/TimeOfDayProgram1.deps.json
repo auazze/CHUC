@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TimeOfDayProgram1/1.0.0": {
+        "runtime": {
+          "TimeOfDayProgram1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeOfDayProgram1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
