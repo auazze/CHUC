@@ -1,0 +1,15 @@
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.exe
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.deps.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.runtimeconfig.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.runtimeconfig.dev.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\ref\MassiveFruits1.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\bin\Release\net5.0\MassiveFruits1.pdb
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.GeneratedMSBuildEditorConfig.editorconfig
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.AssemblyInfoInputs.cache
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.AssemblyInfo.cs
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.csproj.CoreCompileInputs.cache
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\ref\MassiveFruits1.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.pdb
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveFruits1\obj\Release\net5.0\MassiveFruits1.genruntimeconfig.cache
