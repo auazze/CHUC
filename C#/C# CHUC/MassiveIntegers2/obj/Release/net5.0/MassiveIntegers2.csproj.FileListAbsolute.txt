@@ -1,0 +1,32 @@
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.exe
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.deps.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.runtimeconfig.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.runtimeconfig.dev.json
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\ref\MassiveIntegers2.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.pdb
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.csproj.AssemblyReference.cache
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.GeneratedMSBuildEditorConfig.editorconfig
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.AssemblyInfoInputs.cache
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.AssemblyInfo.cs
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.csproj.CoreCompileInputs.cache
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\ref\MassiveIntegers2.dll
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.pdb
+P:\ЧЮК\Инструментальные средства разработки программного обеспечения\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.exe
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.deps.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.runtimeconfig.dev.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\bin\Release\net5.0\MassiveIntegers2.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.csproj.AssemblyReference.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\refint\MassiveIntegers2.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\MassiveIntegers2.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ИСРПО\C# CHUC\MassiveIntegers2\obj\Release\net5.0\ref\MassiveIntegers2.dll
