@@ -1,0 +1,22 @@
+DROP TABLE IF EXISTS DetDom;
+CREATE TABLE IF NOT EXISTS DetDom
+(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+Name TEXT,
+Age INTEGER.
+Room INTEGER,
+Email TEXT,
+Phone TEXT,
+Sex TEXT,
+Passport VARCHAR,
+IsAlive BOOL
+);
+INSERT INTO DetDom (Name, Age, Room, Email, Phone, Sex, Passport, IsAlive)
+VALUES
+('Tom', 7, 23, 'Natasha@DetDom.com', '+7(919)566-44-11', 'M', '248572893', TRUE),
+('Bob', 4, 54, 'Bob@DetDom.com', '+7(911) 666-44-11', 'M' , NULL, TRUE),
+('Sam', 8, 89, 'Sam@DetDom.com', '+7(932) 766-44-11', 'F', NULL, FALSE):
+UPDATE DetDom SET Name - 'Natasha' WHERE Name = 'Tom';
+UPDATE DetDom SET Age = 52 WHERE Age = 7;
+UPDATE DetDom SET Sex = 'F' WHERE 'M';
+SELECT * FROM DetDom
