@@ -1,0 +1,5 @@
+Всегда обрабатываем случаи с точкой и запятой в разделителях дробных чисел или плавающей точкой, называйте как хотите
+
+Console.WriteLine("Введите число X, такое что |X| < 1:");
+string inputX = Console.ReadLine().Replace(',', '.');
+double X = double.Parse(inputX, CultureInfo.InvariantCulture);
