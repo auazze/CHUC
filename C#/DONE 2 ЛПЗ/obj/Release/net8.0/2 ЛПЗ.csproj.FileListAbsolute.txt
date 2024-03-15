@@ -1,0 +1,28 @@
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.exe
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.deps.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\refint\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\2 ЛПЗ\obj\Release\net8.0\ref\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.exe
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.deps.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\bin\Release\net8.0\2 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\refint\2 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\2 ЛПЗ.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 2 ЛПЗ\obj\Release\net8.0\ref\2 ЛПЗ.dll

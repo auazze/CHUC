@@ -1,0 +1,16 @@
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.exe
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.deps.json
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.runtimeconfig.json
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.runtimeconfig.dev.json
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.dll
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\ref\DONE 3 ЛПЗ.dll
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\bin\Release\net5.0\DONE 3 ЛПЗ.pdb
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.csproj.AssemblyReference.cache
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.AssemblyInfoInputs.cache
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.AssemblyInfo.cs
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.csproj.CoreCompileInputs.cache
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.dll
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\ref\DONE 3 ЛПЗ.dll
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.pdb
+P:\ЧЮК\ОАиП\DONE 3 ЛПЗ\DONE 3 ЛПЗ\obj\Release\net5.0\DONE 3 ЛПЗ.genruntimeconfig.cache

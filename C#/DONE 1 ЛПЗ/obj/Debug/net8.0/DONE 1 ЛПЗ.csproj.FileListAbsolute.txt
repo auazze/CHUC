@@ -1,0 +1,14 @@
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\bin\Debug\net8.0\DONE 1 ЛПЗ.exe
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\bin\Debug\net8.0\DONE 1 ЛПЗ.deps.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\bin\Debug\net8.0\DONE 1 ЛПЗ.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\bin\Debug\net8.0\DONE 1 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\bin\Debug\net8.0\DONE 1 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\refint\DONE 1 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\DONE 1 ЛПЗ.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 1 ЛПЗ\obj\Debug\net8.0\ref\DONE 1 ЛПЗ.dll
