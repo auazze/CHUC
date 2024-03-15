@@ -1,0 +1,15 @@
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.exe
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.deps.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.runtimeconfig.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.runtimeconfig.dev.json
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\bin\Release\net5.0\DONE 7 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.AssemblyInfoInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.AssemblyInfo.cs
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.csproj.CoreCompileInputs.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\refint\DONE 7 ЛПЗ.dll
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.pdb
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\DONE 7 ЛПЗ.genruntimeconfig.cache
+C:\Users\nvusxv\Desktop\auazze\ЧЮК\ОАиП\DONE 7 ЛПЗ\obj\Release\net5.0\ref\DONE 7 ЛПЗ.dll
