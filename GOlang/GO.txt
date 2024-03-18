@@ -1,0 +1,41 @@
+package main
+
+import (
+	"fmt"
+)
+
+func main() {
+	Q := "q"
+	W := 123
+	fmt.Println(Q, W)
+
+	a := 1
+	fmt.Println(W+a, W-a, W*a, W/a, W%a)
+	a++
+	fmt.Println(a)
+	a--
+	fmt.Println(a)
+
+	massive()
+
+	chetnost()
+}
+
+func massive() {
+	// var имя_массива [размер]Тип
+	// myArray := [...]int
+	myArray := [...]int{10, 20, 30}
+	myArray[1] = 100
+	fmt.Println(myArray[0])
+}
+
+func chetnost() {
+	myArray := [...]int{10, 15, 20, 25, 30}
+	for _, i := range myArray {
+		if i%2 == 0 {
+			fmt.Println(i, "чётное")
+		} else {
+			fmt.Println(i, "нечётное")
+		}
+	}
+}
