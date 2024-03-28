@@ -1,0 +1,36 @@
+DROP TABLE IF EXISTS Auto;
+DROP TABLE IF EXISTS Men;
+CREATE TABLE IF NOT EXISTS Auto
+(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+Plate TEXT,
+Region INT,
+VIN INT,
+Ctrah bool,
+Probeg INT,
+Model TEXT,
+Mark TEXT,
+Horses INT,
+PLOTINOLOGI INT
+);
+INSERT INTO Auto (Plate, Region, VIN, Ctrah, Probeg, Model, Mark, Horses, PLOTINOLOGI)
+VALUES
+("u726ht", 174, 128568712365, 1, 100000, "Plaid 3", "Tesla", 1000, 100000),
+("i404ai", 174, 952387987234, 0, 10000, "Lancer Evolution IX", "Mitsubishi", 400, 50000);
+
+CREATE TABLE IF NOT EXISTS Men
+(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+FirstName TEXT,
+SecondName TEXT,
+Passport TEXT,
+NumberID INT,
+UGOLOVNIK bool,
+IDcar INT,
+FOREIGN KEY (IDcar) REFERENCES Auto(id)
+);
+INSERT INTO Men (FirstName, SecondName, Passport, NumberID, UGOLOVNIK, IDcar)
+VALUES
+("Stepan", "Stankevich", ".!. BAM", 77116543, 0, 9090);
+
+SELECT * FROM Auto, Men

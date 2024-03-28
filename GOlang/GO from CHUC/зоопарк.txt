@@ -1,0 +1,40 @@
+DROP TABLE IF EXISTS Animals, Human, Aviary;
+
+CREATE TABLE IF NOT EXISTS Aviary
+(
+    Aviary_ID INT PRIMARY KEY AUTO_INCREMENT,
+    Type TEXT
+);
+INSERT INTO Aviary (Type)
+VALUES
+("Animals"),
+("Human");
+
+CREATE TABLE IF NOT EXISTS Animals
+
+(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    A_Name TEXT,
+    A_Age INT,
+    Aviary_ID INT,
+    CONSTRAINT fk_Aviary_Animals FOREIGN KEY (Aviary_ID) REFERENCES Aviary(Aviary_ID)
+);
+INSERT INTO Animals (A_Name, A_Age, Aviary_ID)
+VALUES 
+("Zeus", 5000, 0),
+("Oppenheimer", 40, 0),
+("Your bestie", 20, 0);
+
+CREATE TABLE IF NOT EXISTS Human
+(
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    H_Name TEXT,
+    H_Age INT,    
+    CONSTRAINT fk_Aviary_Human FOREIGN KEY (Aviary_ID) REFERENCES Aviary(Aviary_ID)
+);
+INSERT INTO Human (H_Name, H_Age, Aviary_ID)
+VALUES
+("Monkey", 3, 1),
+("Donkey", 5, 1);
+
+SELECT DISTINCT * FROM Animals, Human, Aviary;
