@@ -1,0 +1,16 @@
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.exe
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.deps.json
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.runtimeconfig.json
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.runtimeconfig.dev.json
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.dll
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\ref\DONE 14 ЛПЗ.dll
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\bin\Debug\net5.0\DONE 14 ЛПЗ.pdb
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.csproj.AssemblyReference.cache
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.AssemblyInfoInputs.cache
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.AssemblyInfo.cs
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.csproj.CoreCompileInputs.cache
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.dll
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\ref\DONE 14 ЛПЗ.dll
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.pdb
+E:\ЧЮК\ОАиП\DONE 14 ЛПЗ\obj\Debug\net5.0\DONE 14 ЛПЗ.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DONE_14_ЛПЗ
+{
+    public class Car
+    {
+        private string make;
+        private string model;
+        private int year;
+
+        public Car(string make, string model, int year)
+        {
+            this.make = make;
+            this.model = model;
+            this.year = year;
+        }
+
+        public string Make
+        {
+            get { return make; }
+            set { make = value; }
+        }
+
+        public string Model
+        {
+            get { return model; }
+            set { model = value; }
+        }
+
+        public int Year
+        {
+            get { return year; }
+            set { year = value; }
+        }
+
+        public void DisplayInfo()
+        {
+            Console.WriteLine($"Make: {make}, Model: {model}, Year: {year}");
+        }
+    }
+}
